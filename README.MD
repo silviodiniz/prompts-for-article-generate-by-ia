@@ -60,13 +60,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
+   
     <p>&nbsp&nbsp&nbspSilvio Diniz<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/silviodiniz">
@@ -75,7 +69,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 silvio-diniz-de-medeiros-b3157617/">LinkedIn</a>
 &nbsp;|&nbsp;
     </p>
-</p>
+
 <br/><br/>
 ---
 ⌨️ com 💜 por [Silvio Diniz](https://github.com/silviodiniz/) 
